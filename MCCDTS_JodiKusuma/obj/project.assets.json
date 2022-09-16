@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nekozawa\\source\\repos\\MCCDTS_JodiKusuma\\MCCDTS_JodiKusuma\\MCCDTS_JodiKusuma.csproj",
+      "projectUniqueName": "C:\\Users\\Nekozawa\\source\\repos\\MCCDTS_JodiKusuma\\Metrodata_Training_MCCDTS\\MCCDTS_JodiKusuma\\MCCDTS_JodiKusuma.csproj",
       "projectName": "MCCDTS_JodiKusuma",
-      "projectPath": "C:\\Users\\Nekozawa\\source\\repos\\MCCDTS_JodiKusuma\\MCCDTS_JodiKusuma\\MCCDTS_JodiKusuma.csproj",
+      "projectPath": "C:\\Users\\Nekozawa\\source\\repos\\MCCDTS_JodiKusuma\\Metrodata_Training_MCCDTS\\MCCDTS_JodiKusuma\\MCCDTS_JodiKusuma.csproj",
       "packagesPath": "C:\\Users\\Nekozawa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nekozawa\\source\\repos\\MCCDTS_JodiKusuma\\MCCDTS_JodiKusuma\\obj\\",
+      "outputPath": "C:\\Users\\Nekozawa\\source\\repos\\MCCDTS_JodiKusuma\\Metrodata_Training_MCCDTS\\MCCDTS_JodiKusuma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nekozawa\\AppData\\Roaming\\NuGet\\NuGet.Config",

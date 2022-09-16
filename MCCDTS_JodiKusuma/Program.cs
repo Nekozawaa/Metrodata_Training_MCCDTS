@@ -39,7 +39,7 @@ namespace MCCDTS_JodiKusuma
             } while (pilihan != 2);
         }
 
-        public static void InputData()
+        public static void InputData() //method with void
         {
             Console.Write("Masukkan ID                     : ");
             string id = Console.ReadLine();  
@@ -55,7 +55,7 @@ namespace MCCDTS_JodiKusuma
             string grade = Console.ReadLine();
 
             Program program = new Program();
-            string gaji = program.GradeToGaji(grade);
+            string gaji = program.GradeToGaji(grade); //memanggil method non void
             Console.WriteLine("Gaji Karyawan Berdasarkan Grade : Rp " + gaji);
             Console.WriteLine();
 
@@ -84,7 +84,7 @@ namespace MCCDTS_JodiKusuma
             }
         }
 
-        string GradeToGaji(string grade)
+        string GradeToGaji(string grade) //method non void
         {
             if (grade == "A")
             {
@@ -102,7 +102,7 @@ namespace MCCDTS_JodiKusuma
             }
         }
 
-        public static void ViewData(string[] dataPegawai)
+        public static void ViewData(string[] dataPegawai) //method void
         {
             foreach (var item in dataPegawai)
             {
