@@ -1,0 +1,14 @@
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\bin\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.exe
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\bin\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.deps.json
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\bin\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.runtimeconfig.json
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\bin\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.runtimeconfig.dev.json
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\bin\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.dll
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\bin\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.pdb
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\obj\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.csproj.AssemblyReference.cache
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\obj\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\obj\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.AssemblyInfoInputs.cache
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\obj\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.AssemblyInfo.cs
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\obj\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.csproj.CoreCompileInputs.cache
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\obj\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.dll
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\obj\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.pdb
+C:\Users\Nekozawa\source\repos\MCCDTS_JodiKusuma\MCCDTS_JodiKusuma\obj\Debug\netcoreapp3.1\MCCDTS_JodiKusuma.genruntimeconfig.cache
